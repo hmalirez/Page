@@ -1,0 +1,3 @@
+vless://85911705-21e8-455a-bb87-85ec1e188fe0@172.236.212.121:2012?encryption=none&security=tls&sni=pn3.shopingnet.ir&type=ws&host=172.236.212.121&path=%2F#iran1-1
+vless://85911705-21e8-455a-bb87-85ec1e188fe0@172.237.105.151:2012?encryption=none&security=tls&sni=pn3.sepstore.ir&type=ws&host=172.237.105.151&path=%2F#iran1-2
+vless://85911705-21e8-455a-bb87-85ec1e188fe0@192.46.223.9:2012?encryption=none&security=tls&sni=dash.momasnet.sbs&type=ws&host=192.46.223.9&path=%2F#iran1-3
