@@ -1,0 +1,3 @@
+vless://85911705-21e8-455a-bb87-85ec1e188fe0@193.134.100.86:8017?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online%2Cgharar.ir%2Cigap.net#iran3-1
+vless://85911705-21e8-455a-bb87-85ec1e188fe0@78.157.58.118:1122?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online%2Cgharar.ir%2Cigap.net#iran3-2
+vless://85911705-21e8-455a-bb87-85ec1e188fe0@78.157.37.215:1122?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online%2Cgharar.ir%2Cigap.net#iran3-3
